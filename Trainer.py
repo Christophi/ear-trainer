@@ -11,8 +11,6 @@ SMALL_FONT = ("Verdana", 16)
 # Create directory string
 sound_dir = os.getcwd() + '\Sounds'
 
-
-
 # The Trainer class that creates the GUI and 
 class Trainer(tk.Frame):
 
