@@ -1,6 +1,6 @@
 # ear-trainer
 
-Basic ear trainer using Python and Tkinter GUI.
+Basic ear trainer class using Python and Tkinter GUI.
 
 INSTRUCTIONS:
 1. Click 'Begin' to start the game. The note should play aloud. 
